@@ -23,9 +23,6 @@ body, html {
     .slide-jumbotron {
       height: 100%; } }
 
-.owl-carousel {
-  border: 1px solid green; }
-
 .slidebox {
   position: relative; }
   .slidebox h2 {
